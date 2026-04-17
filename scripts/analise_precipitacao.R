@@ -1,5 +1,9 @@
-# pacotes instalados
+# PROJETO: Análise de Precipitação Rio Grande do Norte (2015-2025)
+# AUTORA: Jany Kelly (Bacharela em Geografia / Esp. Geoprocessamento)
+# DESCRIÇÃO: Script desenvolvido para processamento de séries históricas e 
+# geração de cartografia temática com foco em climatologia.
 
+# pacotes instalados
 library(tidyverse)
 library(sf)
 library(gstat)
