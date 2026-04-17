@@ -33,7 +33,7 @@ Para reproduzir esta análise, você precisará dos seguintes dados brutos (não
 
 Os dados vetoriais utilizados nesta análise de precipitação estão disponíveis para fins de auditoria e estudos acadêmicos:
 
-* **[Clique aqui para baixar o Shapefile do projeto](./REGIÕES DE SAÚDE.zip)**: Contém os polígonos das regiões de saúde do RN processados.
+* **[Clique aqui para baixar o Shapefile do projeto](./precipitation-analysis-rn-br/REGIÕES DE SAÚDE.zip)**: Contém os polígonos das regiões de saúde do RN processados.
 
 
 **Nota Técnica:** Os dados originais foram obtidos via [Emparn/IBGE/Sesap] e processados utilizando o datum SIRGAS 2000.
