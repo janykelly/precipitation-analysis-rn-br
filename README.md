@@ -37,8 +37,11 @@ Os dados vetoriais utilizados nesta análise de precipitação estão disponíve
 
 **Nota Técnica:** Os dados originais foram obtidos via [Emparn/IBGE/Sesap] e processados utilizando o datum SIRGAS 2000.
 
-O script de processamento (`script_analise.R` ou `analise.py`) está disponível na pasta principal deste repositório.
+## 💻 Script de Processamento
 
+O código utilizado para a geração das análises e do mapa de precipitação pode ser encontrado no link abaixo:
+
+* **[Script de Análise (R/Python)](./scripts/analise_precipitacao.R)** - *Contém a lógica de tratamento dos dados brutos.*
 ---
 
 *Este projeto demonstra a união de Geoprocessamento Sênior com Desenvolvimento de Sistemas para análise climática.*
