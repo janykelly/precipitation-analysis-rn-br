@@ -5,6 +5,7 @@
 ---
 
 ## 🗺️ Visualização do Mapa / Map Visualization
+<img width="3507" height="2480" alt="Mapa_RN_janeiro_jenks" src="https://github.com/user-attachments/assets/72da9f9f-3e02-41e2-956d-c6fcb24dbfb6" />
 
 ---
 
