@@ -1,2 +1,45 @@
-# precipitation-analysis-rn-br
-Série histórica de precipitação (2015-2025) no Rio Grande do Norte, Brasil. | Historical precipitation series in RN, Brazil.
+# Análise de Série Histórica de Precipitação (2015-2025) - RN, Brasil
+
+### Historical Precipitation Series Analysis - Rio Grande do Norte, Brazil
+
+---
+
+## 🗺️ Visualização do Mapa / Map Visualization
+
+---
+
+## 📋 Descrição / Description
+
+Este projeto realiza uma análise espacial da precipitação no estado do Rio Grande do Norte, cobrindo uma série histórica de 10 anos (2015-2025) do mês de janeiro. O objetivo é identificar padrões climáticos e anomalias na região.
+
+*This project performs a spatial analysis of precipitation in the state of Rio Grande do Norte, Brazil, covering a 10-year historical series (2015-2025). The goal is to identify climate patterns and anomalies in the region.*
+
+### 🛠️ Tecnologias e Metodologias / Technologies & Methodologies
+
+* **Geoprocessamento / GIS:** QGIS (validação), Processamento de Dados Raster.
+* **Análise de Dados / Data Analysis:** Linguagem R / Python (processamento da série histórica).
+* **Visualização / Visualization:** Cartografia Temática, Escalas Sequenciais de Cores (CSS-style para web dashboards).
+
+---
+
+## 🚀 Como Utilizar / How to Use
+
+Para reproduzir esta análise, você precisará dos seguintes dados brutos (não incluídos neste repositório por questões de tamanho):
+1.  [Link para a fonte dos dados de precipitação, https://meteorologia.emparn.rn.gov.br/relatorios/relatorios-pluviometricos]
+2.  [Link para o Shapefile do Rio Grande do Norte, https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=downloads]
+
+## 📦 Dados Espaciais (Shapefiles)
+
+Os dados vetoriais utilizados nesta análise de precipitação estão disponíveis para fins de auditoria e estudos acadêmicos:
+
+* **[Download do Shapefile Completo (ZIP)](./REGIÕES DE SAÚDE.zip)**: Contém os polígonos das regiões de saúde do RN processados.
+
+
+**Nota Técnica:** Os dados originais foram obtidos via [Emparn/IBGE/Sesap] e processados utilizando o datum SIRGAS 2000.
+
+O script de processamento (`script_analise.R` ou `analise.py`) está disponível na pasta principal deste repositório.
+
+---
+
+*Este projeto demonstra a união de Geoprocessamento Sênior com Desenvolvimento de Sistemas para análise climática.*
+*This project demonstrates the union of Senior Geoprocessation with Systems Development for climate analysis.*
