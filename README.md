@@ -27,7 +27,7 @@ Este projeto realiza uma análise espacial da precipitação no estado do Rio Gr
 
 Para reproduzir esta análise, você precisará dos seguintes dados brutos (não incluídos neste repositório por questões de tamanho):
 1.  [Link para a fonte dos dados de precipitação](https://meteorologia.emparn.rn.gov.br/relatorios/relatorios-pluviometricos)
-2.  [Link para o Shapefile do Rio Grande do Norte](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=downloads)
+2.  [Link para o Shapefile do Rio Grande do Norte](https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2023/UFs/RN/)
 
 ## 📦 Dados Espaciais (Shapefiles)
 
